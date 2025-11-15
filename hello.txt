@@ -8,4 +8,4 @@ test vscode new line
 change!
 
 これは変更です。
-さらに変更します。
+add new line from feature-new-branch
