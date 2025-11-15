@@ -4,3 +4,4 @@ hello branch
 VS Code test line
 new line test
 new line from feature-vscode-test
+test vscode new line
