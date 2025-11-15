@@ -2,3 +2,4 @@ Hello Git
 This is second line
 hello branch
 VS Code test line
+new line test
